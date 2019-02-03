@@ -302,8 +302,8 @@ h6 {
 }
 
 footer.footer {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
 }
 
 footer.footer .social-link {
@@ -333,14 +333,13 @@ a:hover, a:focus, a:active {
 }
 
 .btn-primary {
-  background-color: #1D809F !important;
-  border-color: #1D809F !important;
+  background-color: #dc3545 !important;
+  border: none !important;
   color: #fff !important;
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-  background-color: #155d74 !important;
-  border-color: #155d74 !important;
+  background-color: #c82333 !important;
 }
 
 .btn-secondary {
@@ -394,5 +393,28 @@ caption{
 }
 
 #services{
-  background-color: red/*#1a1e20*/;
+  background-color: #1a1e20;
+  height: 30rem;
+}
+
+/*style="border-radius: 5px; height: 100%;"*/
+
+.card-body{
+  background-color: #24272a;
+  border-radius: 0.25rem;
+}
+
+.card{
+  background-color: #24272a;
+  float: left;
+  margin-right: 2rem;
+}
+
+.card img{
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.work1{
+   background-image: url("../img/winter.jpg")
 }
