@@ -51,8 +51,7 @@ h3 {
   height: 65px;
 }
 
-.section-one h4,
-.section-four h4 {
+h4 {
   line-height: 65px;
   font-weight: 700;
 }

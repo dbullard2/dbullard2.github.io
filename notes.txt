@@ -17,13 +17,15 @@
     -
 
 //todo
-    -round corner image corners in collage
+    x round corner image corners in collage
     - make sure all images have alts
-    - add popups to items in collage
-    -let user know they can hover on collage
+    x add popups to items in collage
+    - let user know they can hover on collage
     - replace bulma logo
-    - projects should have live source and view source buttons, what i learned
+    x projects should have live source and view source buttons, what i learned
     - replace project screenshots with videos
+    - add readme to projects
+    - redesign butttons
 
 //optional features
     -light/dark mode switch
