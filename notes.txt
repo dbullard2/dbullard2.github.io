@@ -1,0 +1,87 @@
+//projects
+
+    - a la mode
+    - font frog
+    - the lab
+
+// frameworks / tools
+    - bulma
+    - react
+    - vue
+    - html
+    - css
+    - javascript
+
+//colours
+    -blue - 81f5ff
+    -
+
+//todo
+    -round corner image corners in collage
+    - make sure all images have alts
+    - add popups to items in collage
+    -let user know they can hover on collage
+    - replace bulma logo
+    - projects should have live source and view source buttons, what i learned
+    - replace project screenshots with videos
+
+//optional features
+    -light/dark mode switch
+    - loading screen
+    - quotes for mural
+
+//collage categories
+    - albums
+        x astroworld
+        x care
+        x flower boy
+        x igor
+        x random access memories
+        x the new abnormal
+        x thriller
+        x illmatic
+    - tv shows
+        atlanta
+        rick and morty
+        hey arnold
+        spongebob
+        stranger things
+        doctor who
+        rugrats
+        fosters home
+    - movies
+        blade runner 2049
+        harry potter and the sorcerers stone
+        alien
+        back to the future
+        star wars
+        pulp fiction
+        joker
+        arrival
+    - video games
+        katamari damacy
+        rocket league
+        horizon zero dawn
+        super mario world
+        smash bros
+        destiny
+        no mans sky
+        cuphead
+    - books
+        hugo
+        ready player one
+        the martian
+        she hulk
+        spiderman
+        goosebumps
+        geronimo stilton
+        artemis
+    - youtubers
+        etika
+        it'sagundam
+        mkbhd
+        unbox therapy
+        wubby
+        kurzgesagt
+        nerdwriter
+        dave2d
