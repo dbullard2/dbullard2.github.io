@@ -7,6 +7,10 @@ body {
   font-family: 'avenir';
 }
 
+footer {
+  text-align: center;
+}
+
 .section-one {
   height: 100vh;
 }
