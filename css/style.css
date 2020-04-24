@@ -51,7 +51,10 @@ h3 {
 
 .button {
   border-radius: 10px;
-  border: 3px solid #81f5ff;
+  border: none;
+  /*border: 3px solid #81f5ff;*/
+  background-color: #81f5ff;
+  color: #fff;
   height: 65px;
 }
 
@@ -82,6 +85,14 @@ h4 {
 
 .section-three h4 {
   color: #828282;
+}
+
+.section-three a h4 {
+  color: #fff;
+}
+
+.section-three a h4:hover {
+  color: #000;
 }
 
 .section-three img {
